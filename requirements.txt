@@ -1,0 +1,9 @@
+transformers
+datasets
+torch
+torchaudio
+soundfile
+librosa
+evaluate
+jiwer
+huggingface_hub
